@@ -189,10 +189,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
-      <br>Bash
-  </td>
       <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
@@ -213,14 +209,13 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="65" height="65" />
       <br>Ansible
   </td>
-  </tr>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
       <br>PHP
     </td>
   <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ngnix" alt="icon" width="65" height="65" />
-      <br>Ngnix
+        <img src="https://skillicons.dev/icons?i=nginx" alt="icon" width="65" height="65" />
+      <br>Nginx
     </td>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
@@ -232,6 +227,10 @@ Here are some ideas to get you started:
     </td>  
  </tr>
 <tr>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
+      <br>Bash
+  </td>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=md" alt="icon" width="65" height="65" />
       <br>Markdown
