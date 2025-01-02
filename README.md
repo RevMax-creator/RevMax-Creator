@@ -41,8 +41,8 @@ Here are some ideas to get you started:
       <br>X
     </td>
     <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="icon" width="45" height="45" />
-      <br>Leetcode
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" alt="icon" width="45" height="45" />
+      <br>HackerRank
     </td>
   </tr>
 </table>
