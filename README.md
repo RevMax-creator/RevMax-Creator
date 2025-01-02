@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugith10&label=Profile%20views&color=0e75b6&style=flat" alt="sugith10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RevMax-Creator&style=plastic&color=orange&base=1500&abbreviated=true" alt="sugith10" /> </p>
 
 <div style="margin-bottom: 200px;"></div>
 <!--
