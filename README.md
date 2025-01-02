@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <samp>- ⌨️ Fun fact: I spend every day! thinking of new business 💻</samp>
 
-
 <h3 align="center"><samp>Connect</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -49,7 +48,6 @@ Here are some ideas to get you started:
 </table>
 <br><br>
 </div>
-
 
 <h3 align="center"><samp>💻 Languages and Tools</samp></h3>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -74,28 +72,12 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=supabase" alt="icon" width="45" height="50" />
       <br>Supabase
     </td>
-   <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" alt="SQLAlchemy" width="45" height="50" />
-      <br>SQLAlchemy
-    </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
       <br>Figma
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=all" alt="icon" width="45" height="45" />
-      <br>Typescript
-    </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -104,14 +86,54 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
+    <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ts" alt="icon" width="45" height="45" />
+      <br>Typescript
+    </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Nodejs" />
+      <br>Tailwind
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="Nodejs" />
+      <br>React
+      </td>
+   <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Nodejs" />
+      <br>Redux
+      </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
+      <br>Angular
+    </td>
+ <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="Nodejs" />
+      <br>NPM
+      </td>
            <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nodejs" />
+      <br>Nextjs
       </td>
+        <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
+      <br>Postman
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
+      <br>Express
+    </td>
           <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -120,21 +142,24 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>My SQL
     </td>
-           <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+  <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/220px-SQLAlchemy.svg.png" alt="SQLAlchemy" width="45" height="50" />
+      <br>SQLAlchemy
     </td>
+      <td align="center" width="100">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
+      <br>SQ Lite
   </tr>
- <tr>
-        <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="postman" />
-      <br>Postman
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
+      <br>Jquery
     </td>
-       <td align="center" width="100"> 
+    <td align="center" width="100">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-       <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
       <br>Github
     </td>
@@ -142,15 +167,15 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
       <br>Android Studio
     </td>
-            <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
-    </td>
-      <td align="center" width="100">
+    </td> 
+    <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
     </td>
-     <td align="center" width="100">
+    <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
       <br>Apple
     </td>
@@ -158,78 +183,89 @@ Here are some ideas to get you started:
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
       <br>Windows
     </td>          
- </tr>
-  <tr>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
-      <br>WordPress
-    </td>      
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="65" height="65" />
-      <br>Angular
-    </td>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="65" height="65" />
-      <br>Ansible
-  </td>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="65" height="65" />
-      <br>AutoCad
-    </td>  
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
-      <br>Azure
-    </td>   
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
-      <br>Bash
-  </td>   
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=bsd" alt="icon" width="65" height="65" />
       <br>BSD
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=bash" alt="icon" width="65" height="65" />
+      <br>Bash
+  </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+      </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+      <br>Azure
     </td>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ansible" alt="icon" width="65" height="65" />
+      <br>Ansible
+  </td>
   </tr>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
+      <br>PHP
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=ngnix" alt="icon" width="65" height="65" />
+      <br>Ngnix
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=wordpress" alt="icon" width="65" height="65" />
+      <br>WordPress
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=autocad" alt="icon" width="65" height="65" />
+      <br>AutoCad
+    </td>  
+ </tr>
+<tr>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=md" alt="icon" width="65" height="65" />
+      <br>Markdown
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=obsidian" alt="icon" width="65" height="65" />
+      <br>Obsidian
+    </td>
+<td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vim" alt="icon" width="65" height="65" />
+      <br>Vim
+    </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=flask" alt="icon" width="65" height="65" />
       <br>Flask
     </td>
+  <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=django" alt="icon" width="65" height="65" />
+      <br>Django
+  </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=go" alt="icon" width="65" height="65" />
       <br>Go
     </td>
   <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="65" height="65" />
-      <br>Jquery
-    </td>      
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=md" alt="icon" width="65" height="65" />
-      <br>Markdown
-    </td>   
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=obsidian" alt="icon" width="65" height="65" />
-      <br>Obsidian
-    </td>   
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
-      <br>PHP
+        <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
+      <br>Java
     </td>
-    
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=py" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kubernetes" alt="icon" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-  <tr>
   </tr>
-       
+
 </table>
 <br><br>
 </div>
