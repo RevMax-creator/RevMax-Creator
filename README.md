@@ -276,7 +276,7 @@ Here are some ideas to get you started:
   <!-- GitHub Streak Stats -->
 <!--   <a href="https://git.io/streak-stats"><img src="" alt="GitHub Streak" /> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=RevMax-Creator&theme=microsoft-dark" alt="RevMax-Creator GitHub Streak" width="48%" height="200" style="object-fit: cover;"/> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RevMax-creator&theme=synthwave&border_radius=8.5" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RevMax-creator&theme=synthwave&border_radius=8.5&fire=EB5454" alt="GitHub Streak" /></a>
 </div>
 
 <div style="margin-bottom: 60px;"></div>
